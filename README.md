@@ -1,59 +1,28 @@
-Welcome to my personal portfolio website! This portfolio showcases my
-skills, projects, experience, and interests in Artificial
-Intelligence, Machine Learning, Data Analytics, and Python
-Development.
+Swagati Pachare - Portfolio
 
-🚀 Live Portfolio
+This repository contains my personal portfolio website, where I showcase my skills, projects, experience, and work in AI/ML, Data Analytics, and Python development.
 
-🔗 Visit My Portfolio
+Live Portfolio
 
-👩‍💻 About Me
+Visit my Portfolio
 
-Hi, I'm Swagati Pachare, a Computer Science professional and AI/ML
-enthusiast passionate about building practical technology solutions and
-working with data.
+About Me
 
-I am interested in:
+I am a Computer Science professional interested in Artificial Intelligence, Machine Learning, Data Analytics, and software development. I enjoy working on real-world projects and building practical solutions using data and machine learning.
 
-🤖 Artificial Intelligence & Machine Learning
-
-🧠 Deep Learning
-
-📊 Data Analytics
-
-🐍 Python Development
-
-👁️ Computer Vision
-
-✨ Generative AI
-
-📈 Data Visualization
-
-🌐 Web Application Development
-
-🛠️ Skills & Technologies
-
-Programming & Development
+Skills
 
 Python
-
-HTML
-
-CSS
-
-SQL
-
-AI / Machine Learning
 
 Machine Learning
 
 Deep Learning
 
-Computer Vision
-
-Generative AI
+Artificial Intelligence
 
 Data Analytics
+
+SQL
 
 Pandas
 
@@ -69,103 +38,50 @@ Tableau
 
 Excel
 
-Tools & Platforms
-
-Git
-
-GitHub
-
 Streamlit
 
-Jupyter Notebook
+HTML
 
-📌 Featured Projects
+CSS
 
-🤖 EMI Predict AI
+Git & GitHub
 
-A machine learning project focused on EMI prediction using financial and
-user-related data.
+Projects
 
-🕳️ Pothole Detection
+Some of the projects featured in my portfolio include:
 
-A computer vision / deep learning project designed to detect potholes
-from images.
+EMI Predict AI - Machine learning project for EMI prediction.
 
-📊 HR Analytics
+Pothole Detection - AI/computer vision project for pothole detection.
 
-A data analytics project focused on analyzing employee and HR-related
-data to generate meaningful insights.
+HR Analytics - Data analytics project for exploring HR and employee data.
 
-🔐 Steganography
+Steganography - Python project for hiding information securely in digital media.
 
-A Python-based project for securely hiding information within digital
-media.
+Online Movie Ticket Booking System - Web-based movie ticket booking project.
 
-🎬 Online Movie Ticket Booking System
+Job Portal - Web-based job portal application.
 
-A web-based application for browsing movies and managing online movie
-ticket bookings.
+Technologies Used
 
-💼 Job Portal
+The portfolio website is built using web technologies such as HTML and CSS, along with the tools and technologies used in my projects.
 
-A web-based platform designed to connect job seekers and job
-opportunities.
+Deployment
 
-💻 Portfolio Features
+The portfolio is deployed on Netlify.
 
-Responsive personal portfolio website
+Live Website: https://swagatiportfolio.netlify.app/
 
-About Me section
+Contact
 
-Skills and technologies
+GitHub: https://github.com/swagatipachare
 
-Project showcase
+LinkedIn: https://www.linkedin.com/in/swagati-pachare-9ba673331
 
-Professional profile
+Email: swagatipachare123@gmail.com
 
-Contact section
+License
 
-Social media links
+This project is for personal portfolio and educational purposes.
 
-Mobile-friendly design
-
-📂 Repository Structure
-
-Portfolio/
-│
-├── index.html
-├── css/
-├── js/
-├── images/
-└── README.md
-
-The exact folder structure may vary depending on the current version
-of the portfolio.
-
-🌐 Deployment
-
-This portfolio is deployed using Netlify.
-
-🔗 Live Website:
-https://swagati-portfolio.netlify.app/
-
-🤝 Connect With Me
-
-💼 LinkedIn: Connect with
-me
-
-🌐 Portfolio:
-swagati-portfolio.netlify.app
-
-📧 Email: swagatipachare123@gmail.com
-
-🐙 GitHub: swagatipachare
-
-⭐ Feedback
-
-If you find this portfolio or any of my projects interesting, feel free
-to ⭐ the repository and connect with me.
-
-💡 Turning ideas into intelligent solutions with AI, ML & Data.
-
-© Swagati Pachare
+Thank you for visiting my portfolio!
