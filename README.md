@@ -67,7 +67,7 @@ I enjoy turning data and ideas into practical applications and continuously lear
 
 ### 🚀 Explore my portfolio
 
-**[👉 Visit swagatiportfolio.netlify.app](https://swagatiportfolio.netlify.app/)**
+**[👉 Live Demo](https://swagatiportfolio.netlify.app/)**
 
 </div>
 
