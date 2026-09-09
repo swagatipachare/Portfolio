@@ -1,87 +1,87 @@
-Swagati Pachare - Portfolio
+# Swagati Pachare - Portfolio
 
-This repository contains my personal portfolio website, where I showcase my skills, projects, experience, and work in AI/ML, Data Analytics, and Python development.
+Welcome to my personal portfolio website where I showcase my skills, projects, and work in AI/ML, Data Analytics, and Python development.
 
-Live Portfolio
+## Live Portfolio
 
-Visit my Portfolio
+[Visit My Portfolio](https://swagatiportfolio.netlify.app/)
 
-About Me
+## About Me
 
-I am a Computer Science professional interested in Artificial Intelligence, Machine Learning, Data Analytics, and software development. I enjoy working on real-world projects and building practical solutions using data and machine learning.
+I am a Computer Science professional interested in **Artificial Intelligence, Machine Learning, Data Analytics, and Python development**.
 
-Skills
+I enjoy working on real-world projects and building practical solutions using data and machine learning.
 
-Python
+## Skills
 
-Machine Learning
+- Python
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Data Analytics
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Tableau
+- Excel
+- Streamlit
+- HTML
+- CSS
+- Git & GitHub
 
-Deep Learning
+## Projects
 
-Artificial Intelligence
+### EMI Predict AI
 
-Data Analytics
+Machine learning project for EMI prediction.
 
-SQL
+### Pothole Detection
 
-Pandas
+AI and computer vision project for detecting potholes from images.
 
-NumPy
+### HR Analytics
 
-Matplotlib
+Data analytics project for analyzing HR and employee data.
 
-Seaborn
+### Steganography
 
-Power BI
+Python project for securely hiding information in digital media.
 
-Tableau
+### Online Movie Ticket Booking System
 
-Excel
+Web-based movie ticket booking application.
 
-Streamlit
+### Job Portal
 
-HTML
+Web-based job portal application.
 
-CSS
+## Technologies Used
 
-Git & GitHub
+- Python
+- Machine Learning
+- Data Analytics
+- SQL
+- Power BI
+- Streamlit
+- HTML
+- CSS
+- Git & GitHub
 
-Projects
+## Deployment
 
-Some of the projects featured in my portfolio include:
+This portfolio is deployed on **Netlify**.
 
-EMI Predict AI - Machine learning project for EMI prediction.
+**Live Website:** [https://swagatiportfolio.netlify.app/](https://swagatiportfolio.netlify.app/)
 
-Pothole Detection - AI/computer vision project for pothole detection.
+## Contact
 
-HR Analytics - Data analytics project for exploring HR and employee data.
+- **GitHub:** [swagatipachare](https://github.com/swagatipachare)
+- **LinkedIn:** [Swagati Pachare](https://www.linkedin.com/in/swagati-pachare-9ba673331)
+- **Email:** [swagatipachare123@gmail.com](mailto:swagatipachare123@gmail.com)
 
-Steganography - Python project for hiding information securely in digital media.
-
-Online Movie Ticket Booking System - Web-based movie ticket booking project.
-
-Job Portal - Web-based job portal application.
-
-Technologies Used
-
-The portfolio website is built using web technologies such as HTML and CSS, along with the tools and technologies used in my projects.
-
-Deployment
-
-The portfolio is deployed on Netlify.
-
-Live Website: https://swagatiportfolio.netlify.app/
-
-Contact
-
-GitHub: https://github.com/swagatipachare
-
-LinkedIn: https://www.linkedin.com/in/swagati-pachare-9ba673331
-
-Email: swagatipachare123@gmail.com
-
-License
-
-This project is for personal portfolio and educational purposes.
+---
 
 Thank you for visiting my portfolio!
